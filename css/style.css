@@ -1,0 +1,188 @@
+.container{
+    margin-left: 166px;
+
+}
+
+.header{
+    height: 100vh;
+    background-image: url('../img/hero image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header__logo{
+    margin-right: 268px;
+}
+
+body{
+    margin: 0;
+ 
+}
+
+
+
+.header__btn{
+    width: 157px;
+    height: 47px;
+    flex-shrink: 0;
+    background: #FF7400;
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.header__text_s{
+    
+}
+
+.header__text{
+    text-decoration: none;
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 25px;
+    
+}
+
+.header__line{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.header__text:hover {
+    color: #FF7400;
+}
+
+.phone{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+}
+
+.phone__texts{
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 49px;
+}
+
+
+.phone__texts__phone{
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    
+}
+
+.phone__img{
+    margin-right: 10px; 
+}
+
+.number{
+    display: flex;
+    align-items: start;
+    
+}
+
+.cart{
+    position: relative;
+    width: 19.979px;
+    height: 17.105px;
+    flex-shrink: 0;
+    border-right: 1px solid #FFF;
+    width: 1px;
+    height: 51px;
+    
+    margin-left: 34px;
+
+}
+
+.img__cart{
+    position: absolute;
+    top: 20px;
+    right: 8px;
+    margin-right: 10px;
+}
+
+/* welcome */
+
+.welcome__title{
+    color: #D67E35;
+    font-family: Tinos;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.welcome__medium{
+    width: 556px;
+    height: 85px;
+    flex-shrink: 0;
+    color: #D67E35;
+    font-family: Tinos;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.dom{
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+
+
+
+.welcome__btn{
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 137px;
+    height: 47px;
+    flex-shrink: 0;
+    background: #FF7400;
+}
+
+.welcome__block{
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: start;
+}
+
